@@ -1,5 +1,3 @@
-remote_theme :  Linho1150/linho1150.github.io
-
 title: Moving # The title of the blog
 author: Your Name # Your name 
 email: your-email@domain.com # your email shown in the footer
@@ -7,6 +5,7 @@ url: http://linho1150.github.io # this is your site's root address.
 description: > # this means to ignore newlines until "show_excerpts:"
   A clean and minimalist theme for Jekyll.
 favicon: "./favicon.ico" # set the favicon of the site 
+remote_theme : huangyz0918/moving 
 
 show_excerpts: false # set to true to show excerpts on the homepage
   
