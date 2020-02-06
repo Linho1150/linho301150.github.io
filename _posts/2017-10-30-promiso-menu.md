@@ -1,6 +1,6 @@
 ---
 title: "K-smile, Promiso Team Production and delivery of foreign language menu board"
-date: 2017-10-12
+date: 2017-10-30
 categories: PROMISO
 ---
 
