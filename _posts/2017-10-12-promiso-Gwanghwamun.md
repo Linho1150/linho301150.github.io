@@ -1,5 +1,5 @@
 ---
-title: "K-smile, Promiso Team Promoting the Pyeongchang Olympics in Gwanghwamun"
+title: "K-smile, Promiso Team Promoting the Pyeongchang Olympics in Gwanghwamun (version Long)"
 date: 2017-10-12
 categories: PROMISO
 ---
