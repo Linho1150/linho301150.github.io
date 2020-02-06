@@ -1,5 +1,5 @@
 ---
-title: "MJ Univ Club Fair Promotion Video"
+title: "MJUPR, MJ Univ Club Fair Promotion Video"
 date: 2019-08-28
 categories: MJUPR (Myong Ji Univ Public Relations)
 ---
