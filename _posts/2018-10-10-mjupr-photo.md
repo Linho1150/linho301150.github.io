@@ -1,5 +1,5 @@
 ---
-title: "MJUPR, Information with photo"
+title: "MJUPR, Information with photo Posting"
 date: 2018-10-10
 categories: MJUPR
 ---
