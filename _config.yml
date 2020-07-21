@@ -2,7 +2,7 @@ remote_theme : huangyz0918/moving
 title: Linho # The title of the blog
 author: Lee Jae Jun # Your name 
 email: linho301150@gmail.com # your email shown in the footer
-url: https://linho301150.github.io # this is your site's root address.
+url: https://linho.kr # this is your site's root address. #linho301150.github.io
 description: > # this means to ignore newlines until "show_excerpts:"
  poster design, photography & editing, video shooting & editing, programming. ( Adobe Photoshop, Adobe Premiere, Python, Java )
 favicon: "./favicon.ico" # set the favicon of the site 
