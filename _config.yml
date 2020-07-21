@@ -45,7 +45,8 @@ moving:
     #   instance: 
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: huangyz0918/moving
+#jekyll-theme-minimal
 
 plugins:
   - jekyll-feed
