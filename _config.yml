@@ -45,7 +45,7 @@ moving:
     #   instance: 
 
 # Build settings
-theme: moving # note, please use huangyz0918/moving if you want to publish to Github Pages.
+theme: jekyll-theme-minimal
 
 plugins:
   - jekyll-feed
